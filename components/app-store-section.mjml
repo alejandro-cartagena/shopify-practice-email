@@ -1,0 +1,45 @@
+<mj-raw>
+  <!-- Text and Playstore/Applestore Icons -->
+</mj-raw>
+<mj-section padding="40px 20px 20px 20px">
+  <mj-column>
+    <mj-text
+      align="center"
+      font-size="20px"
+      font-weight="bold"
+      line-height="28px"
+      color="#20262e"
+      >Running a business like yours isn't a desk job. Keep it from becoming one
+      with the Shopify app.</mj-text
+    >
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-group>
+    <mj-column>
+      <mj-image
+        width="150px"
+        height="43px"
+        padding="0 5px"
+        align="right"
+        href="https://apple.com"
+        src="https://i.postimg.cc/k5xJqL3Z/appstore.png"
+      />
+    </mj-column>
+
+    <mj-column>
+      <mj-image
+        width="150px"
+        height="43px"
+        padding="0 5px"
+        align="left"
+        href="https://android.com"
+        src="https://i.postimg.cc/T352HpkT/android.png"
+      />
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-raw>
+  <!-- End Text and Playstore/Applestore Icons -->
+</mj-raw>
